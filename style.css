@@ -85,6 +85,7 @@ a:focus {
 
 /*header section*/
 .hero_area {
+  background- color: blue;
   position: relative;
   min-height: 100vh;
   display: -webkit-box;
